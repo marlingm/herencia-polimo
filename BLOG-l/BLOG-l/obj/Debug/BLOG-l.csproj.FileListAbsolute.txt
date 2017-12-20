@@ -1,0 +1,2 @@
+c:\users\1212034\documents\visual studio 2015\Projects\BLOG-l\BLOG-l\bin\Debug\BLOG-l.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\BLOG-l\BLOG-l\bin\Debug\BLOG-l.exe.config
