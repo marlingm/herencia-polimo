@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\Lista-in\Lista-in\bin\Debug\Lista-in.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Lista-in\Lista-in\obj\Debug\Lista-in.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Lista-in\Lista-in\bin\Debug\Lista-in.exe
+c:\users\user\documents\visual studio 2012\Projects\Lista-in\Lista-in\bin\Debug\Lista-in.pdb
+c:\users\user\documents\visual studio 2012\Projects\Lista-in\Lista-in\obj\Debug\Lista-in.exe
+c:\users\user\documents\visual studio 2012\Projects\Lista-in\Lista-in\obj\Debug\Lista-in.pdb
